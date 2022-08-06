@@ -11,7 +11,7 @@ project(simple-demo)
 
 # set OpenCV_DIR variable equal to the path to the cmake
 # files within the previously installed opencv program
-set(OpenCV_DIR /home/leukos/pencv)
+set(OpenCV_DIR /home/leukos/opencv) # Change it to the opnecv instal dir
 
 # Tell compiler to use C++ 14 features which is needed because
 # Clang version is often behind in the XCode installation
